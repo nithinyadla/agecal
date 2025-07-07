@@ -18,5 +18,8 @@ def main():
         age = calculate_age(birth_date)
         st.success(f"Your age is: {age} years")
 
+
+
+
 if __name__ == "__main__":
     main()
