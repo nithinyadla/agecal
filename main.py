@@ -17,6 +17,12 @@ def main():
     if st.button("Calculate Age"):
         age = calculate_age(birth_date)
         st.success(f"Your age is: {age} years")
+        
+print("hello world")
+for i in range()
+  print(i)
+    if:
+        2>0:
 
 
 
